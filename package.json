@@ -1,0 +1,19 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iammeskat/test.git"
+  },
+  "author": "meskat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iammeskat/test/issues"
+  },
+  "homepage": "https://github.com/iammeskat/test#readme"
+}
